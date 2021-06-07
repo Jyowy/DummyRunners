@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RaceFloor
+  m_Shader: {fileID: -6465566751694194690, guid: d8db0fc947f1db74bbfb94ec9691e362,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_85D740F6:
+        m_Texture: {fileID: 2800000, guid: 9000d459c73799940b2a75c7a9419d69, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6cef47266f58ad64a9206c44fe6ae5cf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B020C8A9: 13.05
+    - Vector1_DBFECE48: -0.1
+    m_Colors:
+    - Color_65A65F01: {r: 2.8249907, g: 0.2856362, b: 0, a: 1}
+    - Vector2_D77F6D89: {r: 1, g: 7.5, b: 0, a: 0}
+    - _BaseColor: {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 1}

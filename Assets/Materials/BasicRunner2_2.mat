@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicRunner2_2
+  m_Shader: {fileID: -6465566751694194690, guid: 602da4b45772d1d4c8ec6e4c2f06e1ff,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CustomColorsLayer:
+        m_Texture: {fileID: 7683995956410475057, guid: 0fbc9aaf4c63fab42bd346ba6496fac9,
+          type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: -1113975027796909473, guid: 50098981c2fc1d645bb6ed7f3ca06c96,
+          type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_1CA7B687: {r: 1.8113209, g: 0.047416765, b: 0.19493726, a: 1}
+    - Color_78B31B2D: {r: 0.6154199, g: 0.49288005, b: 1.471698, a: 1}
+    - Color_84CC347: {r: 1.4454827, g: 0.052756745, b: 2.2368865, a: 1}
+    - Color_956665C: {r: 0.34657255, g: 0.90588236, b: 0.19999996, a: 1}
+    - Color_AB07EBD2: {r: 1, g: 0.633398, b: 0.10849059, a: 0}
+    - Color_CA863DCF: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
+    - Color_E51E2D27: {r: 0.8432627, g: 1, b: 0.1462264, a: 1}
